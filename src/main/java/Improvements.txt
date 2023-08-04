@@ -1,0 +1,8 @@
+Login page:
+    - not to let the user get into the app when ENTRANCE is pressed
+
+All pages
+
+ - update methods: how about the fields you don't want to update??
+ - drop-down lists
+ - create book with drop-down lists from authors and publishing books

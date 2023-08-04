@@ -1,0 +1,2 @@
+Database:
+    - when setting up the foreign keys, we need to be sure to put CASCADE in the ACTION tab
