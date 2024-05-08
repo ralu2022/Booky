@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+    <AUTHORS author_id="1" author_name="Mark Twain" date_of_birth="25-02-1978" written_books="Tom Swayer"/>
+    <AUTHORS author_id="2" author_name="Osho" date_of_birth="01-01-1954" written_books="Emotions"/>
+    <AUTHORS author_id="3" author_name="Tom Sharpe" date_of_birth="25-02-1978" written_books="Wilt Alternative"/>
+    <AUTHORS author_id="4" author_name="Yuri Yuval" date_of_birth="25-02-1978" written_books="21 Lessons"/>
+    <AUTHORS author_id="5" author_name="Mark Zuzack" date_of_birth="25-02-1978" written_books="Book Thief"/>
+</dataset>
